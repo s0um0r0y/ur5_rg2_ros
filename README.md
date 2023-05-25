@@ -3,8 +3,8 @@ This repository provides codes for urdf, control and interface of On-Robot's RG2
 Link1: https://www.universal-robots.com/plus/product/rg2-gripper-22723/
 Link2: http://onrobot.com/products/
 
-- Author: Sharath Jotawar
-- Email: sharathrjtr@gmail.com 
+- Author: Soumo Roy
+- Email: soumoroy09@gmail.com
 - Video: https://www.youtube.com/watch?v=lCxMGvCKe_g
 
 --------------------------------------
